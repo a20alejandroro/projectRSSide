@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News abour different IDEs</description>
+        <link>https://a20alejandroro.github.io/projectRSSide/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a20alejandroro@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://a20alejandroro.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>NeatBeans</title>
+            <link>https://a20alejandroro.github.io/projectRSSide/neatbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on neatbeans</description>
+        </item>
+        <item>
+            <title>Visual Studio Code</title>
+            <link>https://a20alejandroro.github.io/projectRSSide/vscode.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on vscode</description>
+        </item>
+    </channel>
+</rss>
